@@ -1,0 +1,10 @@
+body{
+/* background-image: url('https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjq2b2e2J78AhUMPmAKHSYDAZMYABAHGgJ0bQ&ohost=www.google.com&cid=CAESauD2QcdNZtqSmlyyev5tKIQMtnoP712Az4ccZCZ28PJVcq1iJHLWe71SbLYqExSFnbU_QT_rV5ih64Og-seZ_QwmXVr7kxsY7cDsXDvUxPRVczPXtJFgOb5YNJHhb9DZhhzd7Ij-IkQXnyg&sig=AOD64_0M0Cbk4UDebnh-ne3M9Dp2d4uXuw&ctype=5&q=&ved=2ahUKEwiwv7Se2J78AhXF3GEKHQy-BdAQwg8oAXoECAUQCQ&adurl=');*/
+background-color: linear-gradient(red,yellow,violet);
+/*background-image: radial-gradient(blue,yellow,violet);*/
+/*background-image: conic-gradient(rgb(222,23,56),red,yellow,violet);*/
+background-repeat: no-repeat;
+background-size: cover;
+
+
+}
